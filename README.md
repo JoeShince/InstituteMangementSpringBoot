@@ -10,7 +10,8 @@ Running this file directly from Intellij will do the work.
 Unit Test cases have been implemented in this application.
 
 
-Endpoints:
+
+API Endpoints:
 1. POST https://0.0.0.0:8443/institute
 2. GET https://0.0.0.0:8443/institute/{instituteId}
 3. PUT https://0.0.0.0:8443/institute
